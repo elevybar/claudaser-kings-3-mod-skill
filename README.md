@@ -8,8 +8,8 @@
 
 | Skill | Scope | Repo |
 |-------|-------|------|
-| **Claudaser Kings 3** (this repo) | Base CK3 modding — 27 pattern guides, .info files, script_docs | [claudaser-kings-3-mod-skill](https://github.com/enzolevy/claudaser-kings-3-mod-skill) |
-| **Claudaser Kings 3 — AGOT Edition** | AGOT sub-modding — all vanilla content + 37 AGOT guides | [claudaser-kings-3-mod-skill-agot](https://github.com/enzolevy/claudaser-kings-3-mod-skill-agot) |
+| **Claudaser Kings 3** (this repo) | Base CK3 modding — 27 pattern guides, .info files, script_docs | [claudaser-kings-3-mod-skill](https://github.com/elevybar/claudaser-kings-3-mod-skill) |
+| **Claudaser Kings 3 — AGOT Edition** | AGOT sub-modding — all vanilla content + 37 AGOT guides | [claudaser-kings-3-mod-skill-agot](https://github.com/elevybar/claudaser-kings-3-mod-skill-agot) |
 
 Use this skill if you're modding **base CK3**. Use the **AGOT Edition** if you're creating sub-mods for [A Game of Thrones](https://steamcommunity.com/sharedfiles/filedetails/?id=2962333032) — it includes everything from this repo plus 37 dedicated AGOT guides covering dragons, mega wars, Valyrian steel, knighthood, Night's Watch, banking, and more.
 
@@ -37,15 +37,15 @@ Claudaser Kings 3 is a Claude Code skill that extracts documentation directly fr
 ### Option 1: Personal skill (available in all your projects)
 
 ```bash
-git clone https://github.com/enzolevy/claudaser-kings-3-mod-skill.git \
-  ~/.claude/skills/ck3-modding
+git clone https://github.com/elevybar/claudaser-kings-3-mod-skill.git \
+  ~/.claude/skills/claudaser-kings-3
 ```
 
 ### Option 2: Project skill (available only in one project)
 
 ```bash
-git clone https://github.com/enzolevy/claudaser-kings-3-mod-skill.git \
-  .claude/skills/ck3-modding
+git clone https://github.com/elevybar/claudaser-kings-3-mod-skill.git \
+  .claude/skills/claudaser-kings-3
 ```
 
 ## Setup
