@@ -91,6 +91,7 @@ First-time setup instructions: read references/setup.md
 - Add localization → references/patterns/localization.md
 - Set up a new mod → references/patterns/mod-setup.md
 - Understand AI behavior/weighting → references/patterns/ai.md
+- Understand flags (character, government, trait, building) → references/patterns/flags.md
 
 ### I want to understand game structure
 - Vanilla folder tree → references/structure/vanilla-tree.md
